@@ -14,3 +14,7 @@ https://tranquil-coast-96823.herokuapp.com/
 ## Heroku App Name
 
 tranquil-coast-96823
+
+## Deploy To Heroku
+
+git push heroku main
