@@ -18,3 +18,9 @@ tranquil-coast-96823
 ## Deploy To Heroku
 
 git push heroku main
+
+## Port on heroku
+
+```
+8080
+```
